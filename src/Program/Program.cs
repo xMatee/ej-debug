@@ -34,7 +34,7 @@ namespace WordsPhrases
             }
             else
             {
-                Console.WriteLine($"Algo salió mal, '{actual}' es difernte de '{expected}'");
+                Console.WriteLine($"Algo salió mal, '{actual}' es diferente de '{expected}'");
             }
         }
     }
